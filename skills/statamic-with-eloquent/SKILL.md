@@ -1,5 +1,5 @@
 ---
-name: statamic-with-eloquent-development
+name: statamic-with-eloquent
 description: "Develops with Statamic CMS (statamic/cms) and the Eloquent Driver (statamic/eloquent-driver). Activates when working with Statamic entries, collections, blueprints, fieldsets, globals, navigations, taxonomies, assets, views, templates, View Composers, Bard/Replicator fields, content blocks, or cp utilities; or when the user mentions Statamic, CMS, blueprint, collection, entry, fieldset, global set, content blocks, please commands, or Statamic routing."
 license: MIT
 metadata:
