@@ -1,9 +1,9 @@
 ---
 name: statamic-with-eloquent-development
-description: "Develops with Statamic (Laravel based) CMS. Activates when working with Statamic entries, collections, blueprints, fieldsets, globals, navigations, taxonomies, assets, views, templates, View Composers, Bard/Replicator fields, content blocks, or cp utilities; or when the user mentions Statamic, CMS, blueprint, collection, entry, fieldset, global set, content blocks, please commands, or Statamic routing."
+description: "Develops with Statamic CMS (statamic/cms) and the Eloquent Driver (statamic/eloquent-driver). Activates when working with Statamic entries, collections, blueprints, fieldsets, globals, navigations, taxonomies, assets, views, templates, View Composers, Bard/Replicator fields, content blocks, or cp utilities; or when the user mentions Statamic, CMS, blueprint, collection, entry, fieldset, global set, content blocks, please commands, or Statamic routing."
 license: MIT
 metadata:
-  triggers: Laravel, Eloquent, PHP framework, Laravel API, Artisan, CMS
+  triggers: Statamic, statamic/cms, statamic/eloquent-driver, Blade CMS, blueprint, collection entries, Statamic entries
   author: Dolphiq
 ---
 
