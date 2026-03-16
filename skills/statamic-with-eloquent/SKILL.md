@@ -12,6 +12,8 @@ tags:
   - statamic
   - blade
   - cms
+  - php
+keywords: ['eloquent', 'statamic', 'laravel', 'database', 'blade', 'cms', 'php']
 metadata:
   triggers: Statamic, statamic/cms, statamic/eloquent-driver, Blade CMS, blueprint, collection entries, Statamic entries
   author: Dolphiq
