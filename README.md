@@ -9,7 +9,7 @@ This skill teaches your AI coding assistant how to work with Statamic's Blade-on
 ### Via Laravel Boost (recommended)
 
 ```bash
-php artisan boost:add-skill statamic-with-eloquent
+php artisan boost:add-skill jordidolphiq/statamic-with-eloquent-skill
 ```
 
 ### Manual installation
