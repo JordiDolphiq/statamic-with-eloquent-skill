@@ -21,6 +21,7 @@ php artisan boost:add-skill jordidolphiq/statamic-with-eloquent-skill
 ## What's included
 
 - Blade-only templating guidelines (no Antlers)
+- No inline PHP in Blade: `@php` blocks are never used unless absolutely necessary, and then only after asking you first. Data comes from Statamic's cascade (entry fields, globals, system variables) and tags/modifiers first, with View Composers, components, or helpers only as a fallback
 - Eloquent Driver hybrid storage configuration
 - Content querying via Statamic facades
 - Value object handling in templates and PHP
