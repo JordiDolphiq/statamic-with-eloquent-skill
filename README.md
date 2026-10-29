@@ -12,6 +12,11 @@ This skill teaches your AI coding assistant how to work with Statamic's Blade-on
 php artisan boost:add-skill jordidolphiq/statamic-with-eloquent-skill
 ```
 
+### In agentic mode
+```bash
+php artisan boost:add-skill jordidolphiq/statamic-with-eloquent-skill --skill=statamic-with-eloquent --no-interaction
+```
+
 ### Manual installation
 
 1. Create the directory `skills/statamic-with-eloquent/` in your project root
